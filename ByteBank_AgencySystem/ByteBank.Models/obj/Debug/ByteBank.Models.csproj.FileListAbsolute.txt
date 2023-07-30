@@ -1,0 +1,21 @@
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.pdb
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.AssemblyReference.cache
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.pdb
+C:\Users\Micae\source\repos\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.xml
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.xml
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.pdb
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.AssemblyReference.cache
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\Array e tipos genericos_PT_VII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.pdb
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.xml
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\bin\Debug\ByteBank.Models.pdb
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.AssemblyReference.cache
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.dll
+C:\Users\Micae\source\repos\List_Lambda+Linq_PT_VIII\ByteBank_AgencySystem\ByteBank.Models\obj\Debug\ByteBank.Models.pdb

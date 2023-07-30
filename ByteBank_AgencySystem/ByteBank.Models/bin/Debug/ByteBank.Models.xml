@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Models</name>
+    </assembly>
+    <members>
+        <member name="T:ByteBank.Models.CurrentAccount">
+            <summary>
+            Classe para definição/criação de uma <see cref="T:ByteBank.Models.CurrentAccount"/> do Banco ByteBank
+            </summary>
+        </member>
+        <member name="M:ByteBank.Models.CurrentAccount.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Cria uma instancia para as definições da <see cref="T:ByteBank.Models.CurrentAccount"/> com os argumentos utilizados
+            Ps. Os argumentos se valem apenas a numeros, alem de ser obrigario serem maior que 0.
+            </summary>
+            <param name="numeroDaAgencia">Representa o valor da propriedade <see cref="P:ByteBank.Models.CurrentAccount.NumeroDaAgencia"/> </param>
+            <param name="numeroDaConta">Representa o valor da propriedade <see cref="P:ByteBank.Models.CurrentAccount.NumeroDaConta"/> </param>
+        </member>
+        <member name="M:ByteBank.Models.CurrentAccount.Sacar(System.Double)">
+            <summary>
+            Função usada para a <see cref="M:ByteBank.Models.CurrentAccount.Sacar(System.Double)"/> o <see cref="P:ByteBank.Models.CurrentAccount.Saldo"/> existente na <see cref="T:ByteBank.Models.CurrentAccount"/> 
+            </summary>
+            <param name="valor">Valor definido para o <see cref="M:ByteBank.Models.CurrentAccount.Sacar(System.Double)"/>. Não podendo ser negativo</param>
+            <exception cref="T:System.ArgumentException">Lançada quando ha o uso do <paramref name="valor"/> menor que zero</exception>
+        </member>
+        <member name="M:ByteBank.Models.CurrentAccount.Depositar(System.Double)">
+            <summary>
+            Função <see cref="M:ByteBank.Models.CurrentAccount.Depositar(System.Double)"/> usada para armazenar mais <see cref="P:ByteBank.Models.CurrentAccount.Saldo"/>
+            </summary>
+            <param name="valor">Valor definido para o <see cref="M:ByteBank.Models.CurrentAccount.Depositar(System.Double)"/>. Não podendo ser negativo</param>
+        </member>
+        <member name="M:ByteBank.Models.CurrentAccount.Transferir(System.Double,ByteBank.Models.CurrentAccount)">
+            <summary>
+            Função usada para a transferencia de dinherio - <see cref="P:ByteBank.Models.CurrentAccount.Saldo"/> - de uma <see cref="T:ByteBank.Models.CurrentAccount"/> para outra
+            </summary>
+            <param name="valor">Valor definido para o <see cref="M:ByteBank.Models.CurrentAccount.Transferir(System.Double,ByteBank.Models.CurrentAccount)"/>. Não podendo ser negativo</param>
+            <param name="contaDestino">Referente para uma <see cref="T:ByteBank.Models.CurrentAccount"/> diferente da que esta sendo usada para <see cref="M:ByteBank.Models.CurrentAccount.Transferir(System.Double,ByteBank.Models.CurrentAccount)"/></param>
+        </member>
+    </members>
+</doc>
